@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.16f1 (5fa502fca597) revision 6268162'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1288; Version 2009; 64bit' Language: 'es' Physical Memory: 3992 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/estef/OneDrive/Documents/UNIVERSITY/PROGRAMACIÓN/Plataform Game
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+58235
+Successfully changed project path to: C:/Users/estef/OneDrive/Documents/UNIVERSITY/PROGRAMACIÓN/Plataform Game
+C:/Users/estef/OneDrive/Documents/UNIVERSITY/PROGRAMACIÓN/Plataform Game
+Using Asset Import Pipeline V2.
